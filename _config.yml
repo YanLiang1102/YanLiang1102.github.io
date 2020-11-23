@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Yan Liang / PhD candidate"
 title_separator          : "-"
-name                     : &name "Yan Liang"
-description              : &description "Information Extraction, NLP University of Oklahoma"
+name                     : "Yan Liang"
+description              : "Information Extraction, NLP University of Oklahoma"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://yanliang1102.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,10 +83,10 @@ author:
   name             : "Yan Liang (梁彦)"
   avatar           : "profile.png"
   location         : "Seattle WA"
-  employer         : "Amazon Product Graph Team"
+  bio              : "Applied Scientist Amazon Product Graph, University of Oklahoma"
   googlescholar    : "https://scholar.google.com/citations?user=kAIL7u0AAAAJ&hl=en"
   email            : "yanliang1102@gmail.com"
-  github           : "https://github.com/YanLiang1102"
+  github           : "YanLiang1102"
   linkedin         : "https://www.linkedin.com/in/yan-liang-a7233b4a/"
 
 # Reading Files
@@ -153,9 +153,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
