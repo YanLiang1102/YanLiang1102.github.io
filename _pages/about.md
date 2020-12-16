@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am fortunate to work as Applied Scientist in [Amazon Product Graph Team](https://www.amazon.science/blog/building-product-graphs-automatically)
+I feel fortunate and proud to work as Applied Scientist in [Amazon Product Graph Team](https://www.amazon.science/blog/building-product-graphs-automatically)
 At the same time, I am a Ph.D. candidate in the [Computer Science Department](https://www.ou.edu/coe/cs), at the [University of Oklahoma](https://www.ou.edu/). I am fortunate to be advised by [Dr. Christan Grant](https://www.ou.edu/coe/cs/people/cgrant). Also, I am proud to be a member of the [OU Data Analytics Lab](https://oudalab.github.io). I received M.S. Computer Science from University of Oklahoma 2018, M.S. [Mathematics from University of Oklahoma](https://math.ou.edu/) 2013,
 B.S. Mathematics from Dalian University of Technology [大连理工大学](https://math.dlut.edu.cn/) 2011.
 
