@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yan Liang"
+title                    : "Yan Liang (梁彦)"
 title_separator          : "-"
 name                     : "Yan Liang"
 description              : "Information Extraction, NLP University of Oklahoma"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yan Liang (梁彦)"
+  name             : "Yan Liang"
   avatar           : "yanliang1102_2.jpg"
   location         : "Seattle WA"
   bio              : "Applied Scientist Amazon Product Graph, PhD candidate University of Oklahoma"
