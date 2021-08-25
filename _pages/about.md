@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I work as an applied scientist in [Amazon Product Graph Team](https://www.amazon.science/blog/building-product-graphs-automatically).
-At the same time, I am a Ph.D. candidate in the [Computer Science Department](https://www.ou.edu/coe/cs), at the [University of Oklahoma](https://www.ou.edu/) advised by [Dr. Christan Grant](https://www.ou.edu/coe/cs/people/cgrant). I am a member of the [OU Data Analytics Lab](https://oudalab.github.io). I received M.S. Computer Science from University of Oklahoma 2018, M.S. [Mathematics from University of Oklahoma](https://math.ou.edu/) 2013,
+At the same time, I am a Ph.D. candidate in the [Computer Science Department](https://www.ou.edu/coe/cs), at the [University of Oklahoma](https://www.ou.edu/) advised by [Dr. Christan Grant](https://www.ou.edu/coe/cs/people/cgrant) in [OU Data Analytics Lab](https://oudalab.github.io). Prior to that, I received M.S. Computer Science from University of Oklahoma 2018, M.S. Mathematics from University of Oklahoma 2013,
 B.S. Mathematics from Dalian University of Technology [大连理工大学](https://math.dlut.edu.cn/) 2011.
 
 I work in areas of information extraction specially in event tracking and detection. 
