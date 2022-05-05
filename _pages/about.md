@@ -24,7 +24,7 @@ Recent Publications
 * [AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types](https://dl.acm.org/doi/abs/10.1145/3394486.3403323) Xin Luna Dong, Xiang He, Andrey Kan, Xian Li, **Yan Liang**, Jun Ma, Yifan Ethan Xu, Chenwei Zhang, Tong Zhao, Gabriel Blanco Saldana, Saurabh Deshpande, Alexandre Michetti Manduca, Jay Ren, Surender Pal Singh, Fan Xiao, Haw-Shiuan Chang, Giannis Karamanolakis, Yuning Mao, Yaqing Wang, Christos Faloutsos, Andrew McCallum, Jiawei Han (SIGKDD 2020)
 * [New Techniques for Coding Political Events across Languages](https://ieeexplore.ieee.org/abstract/document/8424691) **Y Liang**, K Jabr, C Grant, J Irvine, A Halterman (IEEE IRI 2018)
 * [Creating an automated event data system for arabic text](https://oudalab.github.io/papers/halterman2018creating.pdf) A Halterman, J Irvine, **Y Liang**, C Grant, KT Jabr  (ISA 2018)
-* [Adaptive scalable pipelines for political event data generation](https://ieeexplore.ieee.org/abstract/document/8258256) *Y Liang**, A Halterman, J Irvine, M Landis, P Jalla, C Grant, M Solaimani (IEEE BigData 2017)
+* [Adaptive scalable pipelines for political event data generation](https://ieeexplore.ieee.org/abstract/document/8258256) **Y Liang**, A Halterman, J Irvine, M Landis, P Jalla, C Grant, M Solaimani (IEEE BigData 2017)
 * [formalizing interruptible algorithms for human over-the-loop analytics](https://ieeexplore.ieee.org/abstract/document/8258469) Austin Graham, **Yan Liang**, Le Gruenwald, Christan Grant (IEEE BigData 2017)
 
 External Services
