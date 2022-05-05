@@ -13,7 +13,7 @@ I received my Ph.D. Degree in [Computer Science](https://www.ou.edu/coe/cs) from
 
 I work in areas of information extraction specially in event tracking and detection during my Ph.D. time at OU. 
 My dissertation name: Scaling up Labeling, Mining, and Inferencing on Event Extraction.
-During my Ph.D. time, I developed approaches for quick labeling data across different languages. I developed topic-aware event extraction methods to scale up event extraction on different domains, with high improvement on few-shot event types. I developed scalable container based pipeline for event extraction with Kalman filter adapted batchsize. We publishedthe largest machine-coded political event dataset covering documents from 1979 to 2016 (2TB, 300 million documents), known as Terrier (https://terrierdata.org/).
+During my Ph.D. time, I developed approaches for quick labeling data across different languages. I developed topic-aware event extraction methods to scale up event extraction on different domains, with high improvement on few-shot event types. I developed scalable container based pipeline for event extraction with Kalman filter adapted batchsize. We publishedthe largest machine-coded political event dataset covering documents from 1979 to 2016 (2TB, 300 million documents), known as [Terrier](https://terrierdata.org/).
 
 
 Recent Publications
