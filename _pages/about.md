@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I work as an applied scientist in [Amazon Product Graph Team](https://www.amazon.science/blog/building-product-graphs-automatically).
+I work as an applied scientist in [Amazon Product Graph Team](https://www.amazon.science/blog/building-product-graphs-automatically) from 2018.
 
-I received my Ph.D. Degree in [Computer Science](https://www.ou.edu/coe/cs) from the [University of Oklahoma](https://www.ou.edu/) 2022 advised by [Dr. Christan Grant](https://www.ou.edu/coe/cs/people/cgrant). Please check out our lab: [OU Data Analytics Lab](https://oudalab.github.io). Prior to that, I received M.S. Computer Science from University of Oklahoma 2018, M.S. Mathematics from University of Oklahoma 2013, B.S. Mathematics from Dalian University of Technology [大连理工大学](https://math.dlut.edu.cn/) 2011.
+I received my Ph.D. Degree in [Computer Science](https://www.ou.edu/coe/cs) from the [University of Oklahoma](https://www.ou.edu/) 2022 advised by [Dr. Christan Grant](https://www.ou.edu/coe/cs/people/cgrant). Please check out our lab: [OU Data Analytics Lab](https://oudalab.github.io). Prior to that, I received M.S. in Computer Science from University of Oklahoma 2018, M.S. in Mathematics from University of Oklahoma 2013, and B.S. in Mathematics from Dalian University of Technology [大连理工大学](https://math.dlut.edu.cn/) 2011.
 
 I work in areas of information extraction specially in event tracking and detection during my Ph.D. time at OU. 
 My dissertation name: Scaling up Labeling, Mining, and Inferencing on Event Extraction.
-During my Ph.D.time, I developed approaches for quick labeling data across different languages. I developed topic-aware event extraction methods to scale up event extraction on different domains, with high improvement on few-shot event types. I developed scalable container based pipeline for event extraction with Kalman filter adapted batchsize. We publishedthe largest machine-coded political event dataset covering documents from 1979 to 2016 (2TB, 300 million documents), known as Terrier (https://terrierdata.org/).
+During my Ph.D. time, I developed approaches for quick labeling data across different languages. I developed topic-aware event extraction methods to scale up event extraction on different domains, with high improvement on few-shot event types. I developed scalable container based pipeline for event extraction with Kalman filter adapted batchsize. We publishedthe largest machine-coded political event dataset covering documents from 1979 to 2016 (2TB, 300 million documents), known as Terrier (https://terrierdata.org/).
 
 
 Recent Publications
@@ -29,9 +29,9 @@ Recent Publications
 
 External Services
 =====
-reviewer: 2018 IEEE IRI
-reviewer: 2020 IEEE BigData
-reviewer: 2021 IEEE ICMLA
-reviewer: 2022 ACM FAccT
-reviewer: 2022 ACM SIGIR
-reviewer: 2022 SIGKDD
+* reviewer: 2018 IEEE IRI
+* reviewer: 2020 IEEE BigData
+* reviewer: 2021 IEEE ICMLA
+* reviewer: 2022 ACM FAccT
+* reviewer: 2022 ACM SIGIR
+* reviewer: 2022 SIGKDD
