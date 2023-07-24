@@ -15,6 +15,7 @@ I work in areas of information extraction specially in event extraction and dete
 
 Recent Publications
 =====
+* [Concept2Box: Joint Geometric Embeddings for Learning Two-View Knowledge Graphs](https://arxiv.org/abs/2307.01933) Zijie Huang, Daheng Wang, Binxuan Huang, Chenwei Zhang, Jingbo Shang, **Yan Liang**, Zhengyang Wang, Xian Li, Christos Faloutsos, Yizhou Sun, Wei Wang (ACL, 2023)
 * [Ask-and-Verify: Span candidate generation and verification for attribute value extraction](https://www.amazon.science/publications/ask-and-verify-span-candidate-generation-and-verification-for-attribute-value-extraction) Yifan Ding, **Yan Liang**, Nasser Zalmout, Xian Li, Christan Grant, Tim Weninger (EMNLP, 2022)
 * [TAED: Topic-Aware Event Detection](https://oudatalab.com/papers/liang2022taed.pdf) **Yan Liang**, Christan Grant (IEEE BigData, 2022)
 * [All You Need to Know to Build a Product Knowledge Graph](https://naixlee.github.io/Product_Knowledge_Graph_Tutorial_KDD2021/) Nasser Zalmout, Chenwei Zhang, Xian Li, **Yan Liang**, Xin Luna Dong (SIGKDD 2021 tutorial)
